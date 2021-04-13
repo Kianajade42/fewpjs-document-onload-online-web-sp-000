@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
+querySelector.addEventListener("DOMContentLoaded", function() {
 updatedDOM()});
-function updateDOM(){ document.getElementById("text").innerHTML="This is really cool!"; }
+function updateDOM(){ querySelector.getElementById("text").innerHTML="This is really cool!"; }
